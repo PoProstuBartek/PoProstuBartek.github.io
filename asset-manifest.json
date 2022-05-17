@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rolladice/static/css/main.5f5ecc13.css",
+    "main.js": "/rolladice/static/js/main.f24e1dea.js",
+    "index.html": "/rolladice/index.html",
+    "main.5f5ecc13.css.map": "/rolladice/static/css/main.5f5ecc13.css.map",
+    "main.f24e1dea.js.map": "/rolladice/static/js/main.f24e1dea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f5ecc13.css",
+    "static/js/main.f24e1dea.js"
+  ]
+}
